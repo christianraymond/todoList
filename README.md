@@ -1,4 +1,4 @@
-<img src="https://github.com/christianraymond/bookList/blob/master/todoList/wwwroot/img/screenShort-img.png" alt="screenshot">
+<img src="https://github.com/christianraymond/todoList/blob/master/public/imgs/screenShort-img.png" alt="screenshot">
 
 
 ## Available Scripts
